@@ -7,7 +7,7 @@ Kullanıcılar, başlık, konu, tarih ve kategori ekleyebilir, düzenleyebilir v
 Form verileri için Formik ve Yup kullanılmıştır.
 
 
-# KullaNILAN Kütüphaneler 
+# Kullanılan Kütüphaneler 
 
 
 * @React-navigation/native: React Native uygulamaları için navigasyon yönetimini sağlar.
