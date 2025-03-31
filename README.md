@@ -7,28 +7,34 @@ Kullanıcılar, başlık, konu, tarih ve kategori ekleyebilir, düzenleyebilir v
 Form verileri için Formik ve Yup kullanılmıştır.
 
 
-# Kullandığın Kütüphaneler ve Açıklamaları
+# KullaNILAN Kütüphaneler 
 
 
-#@React-navigation/native: React Native uygulamaları için navigasyon yönetimini sağlar.
+* @React-navigation/native: React Native uygulamaları için navigasyon yönetimini sağlar.
 
 
-#@react-navigation/native-stack: Stack tabanlı sayfa geçişleri için kullanılır.
+* @react-navigation/native-stack: Stack tabanlı sayfa geçişleri için kullanılır.
 
 
-#Formik: Form yönetimini kolaylaştıran bir kütüphane.
+* Formik: Form yönetimini kolaylaştıran bir kütüphane.
 
 
-#Yup: Form doğrulama işlemleri için kullanılır.
+* Yup: Form doğrulama işlemleri için kullanılır.
 
 
-#@eva-design/eva: UI tasarımlarını yönetmek için kullanılan bir tema kütüphanesi.
+* @eva-design/eva: UI tasarımlarını yönetmek için kullanılan bir tema kütüphanesi.
 
 
-#@ui-kitten/components: Eva Design sistemine dayalı UI bileşenleri sunar.
+* @ui-kitten/components: Eva Design sistemine dayalı UI bileşenleri sunar.
 
 
-#iconsax-react-native: Uygulamada kullanabileceğin ikonları içeren bir kütüphane.
+* iconsax-react-native: Uygulamada kullanabileceğin ikonları içeren bir kütüphane.
 
 
-#React-native-uuid: UUID (benzersiz kimlik) oluşturmak için kullan
+* React-native-uuid: UUID (benzersiz kimlik) oluşturmak için kullan
+
+
+# Ekran Gıf
+
+![Ekran Kaydı 2025-04-01 02 45 55](https://github.com/user-attachments/assets/f0fa311d-45b7-4ef9-acd2-43aa44e360b3)
+
